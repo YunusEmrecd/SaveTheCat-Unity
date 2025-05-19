@@ -11,11 +11,11 @@ Bu sefer kuzu yerine kedi var — daha hızlı, daha sinirli ve eskisi kadar sav
 
 - Kedi, kılıcıyla gelen düşmanları **geriye püskürtebilir**
 - Farklı türde köpeklerden **kaçındığın her saniye puan kazandırır**
-- Ancak **en ufak bir temas oyunun sonu demektir** 🔥
+- Ancak **en ufak bir temas oyunun sonu demektir** 
 
 ---
 
-## 🖌️ Tasarım & Durum
+## 🖌️ Tasarım 
 
 - **UI tarafında eksikler mevcut**,
 - Ancak **çizimlerde kız kardeşimin katkısı** ve oyunun barındırdığı nostalji hissi sayesinde bu haliyle paylaşılması şart oldu.
